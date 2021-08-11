@@ -1,0 +1,30 @@
+***Classe Tela***
+
+- O atributo 'int rastreioDeOpt' serve para indicar qual a função de cada opção. Por exemplo:
+	-----------------
+	Pessoa           
+	-----------------
+	nome:
+	sexo:
+	    []masculino
+	    []feminino
+	voltar
+	-----------------
+ As opções 'nome', 'sexo', '[]masculino'e '[]feminino' e 'voltar' são de tipos diferentes... Poderíamos supor a seguinte classificação:
+   tipo:
+   1- Opções que possuem algum dado de entrada;
+   11- Resposta do dado de entrada, porém, ao adicionar uma      	  opção do tipo1, este tipo é incrementado 		  	  automaticamente pelo sistema;
+   2- Opções que selecionam algum elemento na tela;
+   21- Flag para indicar que do lado esquerdo, existe uma opção do tipo 2;
+   3- Opções que são selecionadas pelas opções do tipo 2;
+   4- Opções que levam à alguma tela;//Foi feita uma modificação nessa clasificação;
+
+ As opções 'nome', 'sexo', '[]masculino'e '[]feminino' e 'voltar' poderiam ser classificadas como tipo1, tipo2, tipo3 e tipo4, respectivamente.	
+
+- Para que as classes secundárias de telas ("MenuPrincipalTela", etc.) possam acessar as outras telas que estão em seu menu, foi criado na classe "Tela" o atributo 'int rastreioDeTela[1][2]' e 'Tela Telas[1]'. Neste último encontram-se as respectivas telas. Já o primeiro é uma matriz onde, os seus valores indicam a linha e a coluna da opção que leva à uma tela e os indices de linha indicam a posição da tela no vetor 'Tela[]'.
+
+- Pensando bem... Poderíamos colocar todas as telas em um vetor. Feito isso, poderíamos criar a ligação que desejarmos. Por exemplo: Supondo que estamos no menuPrincipal e que nele existe uma opção 'Clientes'(que leva à tela Clientes). Ao selecionar esta opção, a tela de menuPrincipal poderia retornar um código que identifica a tela Clientes. Através desse código, poderíamos rastrear a mesma no vetor.
+Esses códigos poderiam ser do nº 1000 para frente... Com isso, não é necessária que a clasificação tipo4 seja daquela forma. 
+
+
+ 

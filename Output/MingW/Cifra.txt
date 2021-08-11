@@ -1,0 +1,140 @@
+0	Aos olhos do Pai	Diante do Trono	 	 	 	0	1	 	 
+1	Tempos melhores	Livres para Adorar	 	 	 	0	1	 	 
+2	Faz-nos um	Diante do Trono	 	 	 	1	1	 	 
+3	Deus e fiel	Nani Azevedo	 	 	 	1	1	 	 
+4	Uma so voz	Fernanda Brum	C	 	 	1	1	 	 
+5	Milagre	Andre Valadao	C	 	 	1	1	 	 
+6	Poderoso Deus	Antonio Cirilo	 	 	 	0	1	 	 
+7	Vai valer a pena	Livres para Adorar	C	 	 	0	1	 	 
+8	Um santuario cheio da Tua gloria	Fernanda Brum	A	 	 	1	1	 	Ouve-se jubilo atras (somente notas).
+9	Tua gra‡a me basta	Toque no Altar	 	 	 	1	1	 	2 paginas
+10	Fonte de agua viva	Adhemar de Campos	 	 	 	1	1	 	 
+11	Eu vejo a gloria	Fernanda Brum	 	 	 	0	1	 	Deus sabe o que e melhor para mim atras (somente notas)
+12	Quebrantado coracao	Fernanda Brum	 	 	 	0	1	 	 
+13	Vai brilhar (So vai melhorar)	Mariana Valadao	 	 	 	1	1	 	So vai melhorar
+14	Vai brilhar (So vai melhorar)	Mariana Valadao	 	 	Baixo	1	1	 	So vai melhorar
+15	Adorar a Deus	Quatro por Um	 	 	 	1	1	 	 
+16	Diante da Cruz	Aline Barros	 	 	 	0	1	 	 
+17	Pai de multidoes	Fernandinho	 	 	 	0	1	 	 
+18	Milagre	Andre Valadao	 	 	 	0	1	 	 
+19	De olhos fechados	Oficina G3	 	 	 	0	1	 	 
+20	Quero descer	Raquel Mello	 	 	 	0	1	 	 
+21	Quebrantado	Vineyard	 	 	 	1	1	 	 
+22	Milagre	Andre Valadao	 	 	 	1	1	 	 
+23	Nao temerei	Quatro por Um	 	 	 	0	1	 	 
+24	Oracao da familia	Banda Giom	 	 	 	0	1	 	 
+25	Grandioso es Tu	Harpa Crista	G	 	 	1	1	 	 
+26	Ate quando	Andre Valadao	 	141	 	1	1	 	 
+27	Ressuscita	Ministerio Ipiranga	 	 	 	1	1	 	 
+28	Liberdade	Livres para Adorar	C	 	 	1	1	 	 
+29	Ressuscita	Ministerio Ipiranga	 	 	Baixo	1	1	 	 
+30	Quem e Deus como o nosso Deus	Diante do Trono	G	 	 	1	1	 	 
+31	Deus me ama	Mariana Valadao	C	 	 	1	1	 	 
+32	Rendido estou	Aline Barros	 	 	 	1	1	 	Fernandinho (participacao)
+33	Diante de Ti	Quatro por Um	 	 	 	0	1	 	 
+34	Ao unico	Aline Barros	 	 	 	0	1	 	 
+35	Grande e o Senhor	Fernandinho	 	 	 	1	1	 	 
+36	Eu sou grato	Adhemar de Campos	 	 	 	1	1	 	 
+37	Deus vai fazer	Lazaro	 	 	 	0	1	 	 
+38	Abundante chuva	Fernandinho	 	 	 	0	1	 	 
+39	Deus e soberano	Fernandinho	 	 	 	0	1	 	 
+40	Eu te amo tanto	Lazaro	G	 	 	1	1	 	 
+41	Cubra-me	Aline Barros	A	 	 	1	1	 	 
+42	Vim para adorar-te	Quatro por Um	 	 	 	1	1	 	 
+43	Se eu apenas te tocar	Mariana Valadao	 	 	 	1	1	 	 
+44	Reina em mim	Vineyard	 	 	 	1	1	 	 
+45	Senhor te quero	Vineyard	 	 	 	1	1	 	 
+46	Graca	Nivea Soares	A#	98	 	1	1	 	 
+47	Celebre ao Rei	Ministerio Uncao de Deus	 	 	 	1	1	 	 
+48	Quao grande e o meu Deus	Soraya Moraes	G	 	 	1	1	 	 
+49	Adoracao sem limites	Aline Barros	C	 	 	1	1	 	Bb (p/ Paula)
+50	Usa-me	CTMDT	 	 	 	1	1	 	 
+51	Maravilhado	Nivea Soares	A	 	 	1	1	 	 
+52	Maravilhado	Nivea Soares	G#	 	 	1	1	 	Capo na 1a casa fica com tom original
+53	Me rendo	Diante do Trono	A	 	 	1	1	 	 
+54	Derrama a Tua gloria	Uncao Agape	 	 	 	1	1	 	 
+55	Pai nosso	Ministerio Pedras Vivas	B	 	 	1	1	 	 
+56	Eu e minha casa	Andre Valadao	 	 	 	0	1	 	 
+57	Te louvarei	Toque no Altar	 	 	 	0	1	 	 
+58	Sara-me	Fernandinho	 	 	 	1	1	 	 
+59	Identidade	Anderson Freire	G	 	 	1	1	 	 
+60	Assim como a corsa	Fernandinho	 	 	 	0	1	 	 
+61	Vim para adorar-te	Quatro por Um	 	 	 	0	1	 	 
+62	Emanuel	Nivea Soares	 	 	 	1	1	 	 
+63	Emanuel	Nivea Soares	 	 	Baixo	1	1	 	 
+64	Vida de Deus	Mariana Valadao	 	 	 	0	1	 	 
+65	Hosana	Diante do Trono	 	 	 	0	1	 	 
+66	Bendito serei	Nani Azevedo	F	 	 	1	1	 	 
+67	O novo de Deus	Ministerio Sarando a Terra Ferida	 	 	 	1	1	 	 
+68	Soube que me amava	Aline Barros	 	 	 	0	1	 	 
+69	Alianca	Ludmila Ferber	 	 	 	1	1	 	 
+70	Faz-nos um	Diante do Trono	 	 	 	1	1	 	 
+71	Amar voce	Fernanda Brum	 	 	 	1	1	 	 
+72	Ultima chance	Soraya Moraes	 	 	 	1	1	 	 
+73	Tu es	Nivea Soares	B	 	 	1	1	 	 
+74	Poder pra salvar	Aline Barros	 	 	 	1	1	 	 
+75	Grande e o Senhor	Adhemar de Campos	 	 	 	0	1	 	 
+76	Tenho sido abencoado	Matos Nascimento	 	 	 	0	1	 	 
+77	Ele nao desiste de voce	Marquinhos Gomes	 	 	 	0	1	 	 
+78	Como Zaqueu	Regis Danese	 	 	 	0	1	 	 
+79	Deus do impossivel	Toque no Altar	 	 	 	0	1	 	 
+80	Emanuel	Nivea Soares	 	 	 	0	1	 	 
+81	Se nao for para Te adorar	Fernandinho	 	 	 	0	1	 	 
+82	Derrama a Tua gloria	Uncao Agape	 	 	 	0	1	 	 
+83	Casa do Pai	Thalles Roberto	 	 	 	0	1	 	 
+84	Metade de mim	Rosa de Saron	 	 	 	0	1	 	 
+85	A Deus	Oficina G3	 	 	 	0	1	 	 
+86	Vem de Ti Senhor	Diante do Trono	 	 	 	0	1	 	 
+87	Maior e Jesus	Ludmila Ferber	 	 	 	0	1	 	 
+88	Hosana	Mariana Valadao	 	 	 	0	1	 	 
+89	Viver pra Te adorar	Uncao Agape	 	 	 	0	1	 	 
+90	Sonda-me, Usa-me	Aline Barros	C	 	 	1	1	 	 
+91	Deus que muda minha sorte	Uncao Agape	 	 	 	1	1	 	 
+92	Jesus meu primeiro amor	Fernanda Brum	B	 	 	1	1	 	 
+93	Totalmente Teu	Fernandinho	 	 	 	1	1	 	 
+94	Nao morrerei	Marquinhos Gomes	 	 	 	0	1	 	 
+95	Meu alvo	Kleber Lucas	 	 	 	0	1	 	 
+96	Abundante chuva	Alda Celia	 	 	 	1	1	 	 
+97	Ha um rio	Fernandinho	C	 	 	1	1	 	 
+98	Deus sara esta nacao	Comunidade de Nilopolis	C	 	 	1	1	 	 
+99	Se nao for para Te adorar	Fernandinho	 	 	 	1	1	 	 
+100	Fe	Andre Valadao	 	 	 	1	1	 	 
+101	Adorar a Deus	Quatro por Um	 	 	 	1	1	 	 
+102	Sede de Justica	Fernandinho	 	 	 	0	1	 	 
+103	O melhor de Deus	Kleber Lucas	 	 	 	0	1	 	 
+104	Rio de Deus	Nivea Soares	 	 	 	0	1	 	 
+105	Rompendo em fe	Comunidade de Nilopolis	 	 	 	1	1	 	 
+106	Faz chover	Toque no Altar	 	 	 	0	1	 	 
+107	Entrega total	Ministerio Intimidade	G	 	 	1	1	 	 
+108	Geracao de Samuel	Fernandinho	 	 	 	0	1	 	 
+109	Cria em mim	Comunindade de Nilopolis	 	 	 	0	1	 	 
+110	Rompendo em fe	Comunidade de Nilopolis	 	 	 	0	1	 	 
+111	Terreno do inimigo	Comunidade da Zona Sul	 	 	 	1	1	 	 
+112	Unico caminho	Cris Duran	 	 	 	1	1	 	 
+113	O nosso General e Cristo	 	D	120	 	1	1	 	 
+114	Grandes coisas	Fernandinho	 	 	 	1	1	 	 
+115	Aguas vivas	Fernandinho	D	 	 	1	1	 	 
+116	Todas as coisas	Fernandinho	 	 	 	0	1	 	 
+117	Todas as coisas	Fernandinho	 	 	 	0	1	 	 
+118	Leao de Juda	Corinho	C	 	 	1	1	 	Leao de Juda atras em Bb (somente notas)
+119	Parabens	 	 	 	 	1	1	 	 
+120	Cantico da colheita	Comunidade da Zona Sul	F	 	 	1	1	 	 
+121	Caminho de milagres	Aline Barros	 	 	 	1	1	 	 
+122	Mulher samaritana	Uncao Agape	 	 	 	0	1	 	 
+123	Caminho de milagres	Aline Barros	 	 	 	0	1	 	 
+124	Safra abundante	Ministerio sarando a terra ferida	 	 	 	1	1	 	 
+125	Cria em mim	Comunidade de Nilopolis	 	 	 	1	1	 	 
+126	Corro pra Ti	Quatro por Um	 	 	 	0	1	 	 
+127	Abraca-me	Andre Valadao	 	 	 	0	1	 	 
+128	A Tua gloria faz	Fernanda Brum	F	 	 	1	1	 	 
+129	Marcado com Sangue	Ministerio Alem do Veu	 	 	 	1	1	 	 
+130	Amor de dia	Arianne	 	 	 	1	1	 	 
+131	Senhor te quero	Vineyard	 	 	 	0	1	 	 
+132	Santo	Livres para Adorar	D	 	 	1	1	 	 
+133	Te louvarei	Toque no Altar	F	 	 	1	1	 	 
+134	Nunca me deixou	Livres para Adorar	B	 	Violao	1	1	 	 
+135	Nunca me deixou	Livres para Adorar	B	 	Baixo	1	1	 	 
+136	Tudo e possivel	Fernandinho	C#	 	Violao	1	1	 	Capo na 1a casa
+137	Tudo e possivel	Fernandinho	C#	 	Teclado	1	1	 	 
+138	Tudo e possivel	Fernandinho	C#	 	Baixo	1	1	 	 
+139	Atitude	Aline Barros	 	 	 	1	1	 	 
